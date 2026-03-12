@@ -1,0 +1,10 @@
+# PrusaSlicer generated caches and vendor metadata
+/cache/
+/ArchiveRepositoryManifest.json
+
+# Session/UI state and recent file history
+/PrusaSlicer.ini
+/PrusaSlicerGcodeViewer.ini
+
+# Temporary files
+*.lock
