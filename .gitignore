@@ -4,6 +4,7 @@
 
 # Session/UI state and recent file history
 /PrusaSlicer.ini
+/PrusaSlicer.ini.bak
 /PrusaSlicerGcodeViewer.ini
 
 # Temporary files
